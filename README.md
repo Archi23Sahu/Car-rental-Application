@@ -58,3 +58,22 @@ Python:
 1. Change host,user,password and database in mysql.connector.connect in python.
 2. Now, run the main.py
 
+EER Representations:
+
+
+<img width="975" height="925" alt="image" src="https://github.com/user-attachments/assets/25a80b22-24e5-4bee-aeb0-718de6e20aad" />
+
+<img width="975" height="660" alt="image" src="https://github.com/user-attachments/assets/bd615385-b40b-4d9c-8148-ce86d48cbeb8" />
+
+Relational Mapping:
+
+•	customers and rental are many to one mapping.
+
+•	Cars and availability are one to one mapping.
+
+•	Cars and rental many to many mapping.
+
+<img width="975" height="616" alt="image" src="https://github.com/user-attachments/assets/868b586b-a0b5-43ba-8574-8599048be708" />
+
+
+
